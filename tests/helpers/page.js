@@ -1,4 +1,4 @@
-/* This acts a place to write reusable and repetitive functions away from the real test files */
+/* This acts as a place to write reusable and repetitive functions away from the actual test files */
 const puppeteer = require('puppeteer');
 
 const sessionFactory = require('../factories/sessionFactory');
